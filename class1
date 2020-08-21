@@ -1,0 +1,17 @@
+CLI 2.x vs CLI 3.x 차이점
+
+- 명령어
+    2.x: vue init 'project template name' 'file location'
+    3.x: vue create 'project name'
+
+- webpack.config.js
+    2.x : 노출 O
+    3.x : 노출 x
+
+- 프로젝트 구성
+    2.x : 깃헙의 템플릿 다운로드
+    3.x : plugin 기반으로 기능 추가
+
+- ES6 이해도
+    2.x : 필요 x
+    3.x : 필요 O
